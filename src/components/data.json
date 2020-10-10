@@ -1,0 +1,487 @@
+{
+  "applicant": "369d4cce-70a7-4bc4-8f2c-06847d364d96",
+  "answers": [
+    {
+      "question": "mothersMaidenName",
+      "answerType": "string",
+      "answer": "fra"
+    },
+    {
+      "question": "registrationEmailAddress",
+      "answerType": "emailSet",
+      "answer": [
+        {
+          "type": "Home",
+          "address": "access1@Test.com",
+          "order": 0,
+          "rhtyh": {
+            "type": "Work",
+            "address": "work1@Test.com",
+            "order": 2
+          }
+        },
+        {
+          "type": "Work",
+          "address": "work1@Test.com",
+          "order": 2,
+          "rhtyh": {
+            "type": "Work",
+            "address": "work1@Test.com",
+            "order": 2
+          }
+        }
+      ]
+    },
+    {
+      "question": "humanReadableId",
+      "answerType": "string",
+      "answer": "IBB369d4cc"
+    },
+    {
+      "question": "crossBorderCriteriaId",
+      "answerType": "string",
+      "answer": "a7c4193e-3d4e-4499-8599-3c3866e11718"
+    },
+    {
+      "question": "emailAddresses",
+      "answerType": "emailSet",
+      "answer": [
+        {
+          "type": "Home",
+          "address": "access1@Test.com",
+          "order": 0
+        }
+      ]
+    },
+    {
+      "question": "jointAccountQuestion",
+      "answerType": "string",
+      "answer": "Sole account"
+    },
+    {
+      "question": "areYouMovingInTheNextTwoMonths",
+      "answerType": "string",
+      "answer": "No"
+    },
+    {
+      "question": "currentlyApplyingForABarclaysMortgage",
+      "answerType": "string",
+      "answer": "No"
+    },
+    {
+      "question": "applicationId",
+      "answerType": "string",
+      "answer": "369d4cce-70a7-4bc4-8f2c-06847d364d96"
+    },
+    {
+      "question": "sourceOfFundsNotesAndCoins",
+      "answerType": "string",
+      "answer": "No"
+    },
+    {
+      "question": "dateOfBirth",
+      "answerType": "string",
+      "answer": "1996-10-07"
+    },
+    {
+      "question": "areYouAUSCitizen",
+      "answerType": "string",
+      "answer": "No"
+    },
+    {
+      "question": "websiteForFasterProcessing",
+      "answerType": "string",
+      "answer": ""
+    },
+    {
+      "question": "sourceOfFundsInitialDeposit",
+      "answerType": "money",
+      "answer": {
+        "currency": "GBP",
+        "amount": "56757"
+      }
+    },
+    {
+      "question": "accountSelector",
+      "answerType": "accountSelectorSet",
+      "answer": [
+        {
+          "accountHolderId": "369d4cce-70a7-4bc4-8f2c-06847d364d96",
+          "chequeNo": "0",
+          "location": "Isle of Man",
+          "capitalProductsType": [],
+          "cardHolder": "",
+          "productType": "InternationalBankAcc",
+          "chequeName": "",
+          "currency": "EUR",
+          "productId": "11c3c001-0932-4bf2-a485-093ed5c0a1c4",
+          "cardName": ""
+        }
+      ]
+    },
+    {
+      "question": "methodsOfContactForMarketingPreferences",
+      "answerType": "stringSet",
+      "answer": []
+    },
+    {
+      "question": "countryOfBirth",
+      "answerType": "string",
+      "answer": "France"
+    },
+    {
+      "question": "haveYouHadAnyOtherNamesInThePast",
+      "answerType": "string",
+      "answer": "No"
+    },
+    {
+      "question": "salesforceRequestStatus",
+      "answerType": "string",
+      "answer": "registrationStepDone"
+    },
+    {
+      "question": "lastName",
+      "answerType": "string",
+      "answer": "fra"
+    },
+    {
+      "question": "firstName",
+      "answerType": "string",
+      "answer": "shivamprop"
+    },
+    {
+      "question": "primaryAccount",
+      "answerType": "string",
+      "answer": "Yes"
+    },
+    {
+      "question": "relationshipStatus",
+      "answerType": "string",
+      "answer": "Single"
+    },
+    {
+      "question": "userAgents",
+      "answerType": "string",
+      "answer": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+    },
+    {
+      "question": "securityQuestion",
+      "answerType": "string",
+      "answer": "france"
+    },
+    {
+      "question": "sourceOfWealthOtherInfo",
+      "answerType": "string",
+      "answer": "0"
+    },
+    {
+      "question": "wantToUploadDocuments",
+      "answerType": "string",
+      "answer": "Post Documents"
+    },
+    {
+      "question": "workflowState",
+      "answerType": "string",
+      "answer": "In Progress"
+    },
+    {
+      "question": "accountLocationBI",
+      "answerType": "string",
+      "answer": "Isle of Man"
+    },
+    {
+      "question": "grossAnnualIncome",
+      "answerType": "money",
+      "answer": {
+        "currency": "GBP",
+        "amount": "0"
+      }
+    },
+    {
+      "question": "jumioCounter",
+      "answerType": "string",
+      "answer": "0"
+    },
+    {
+      "question": "primaryAddress",
+      "answerType": "address",
+      "answer": {
+        "postCode": "ghfhj",
+        "country": "France",
+        "line1": "mr",
+        "townOrCity": "dfsgsdfg",
+        "order": 0,
+        "from": "2010-10-07",
+        "line2": ""
+      }
+    },
+    {
+      "question": "nationality",
+      "answerType": "orderedStringSet",
+      "answer": [
+        {
+          "value": "France",
+          "order": 0
+        }
+      ]
+    },
+    {
+      "question": "doYouAlreadyHoldBarclaysAccountInUK",
+      "answerType": "string",
+      "answer": "No"
+    },
+    {
+      "question": "creationDate",
+      "answerType": "string",
+      "answer": "2020-09-02"
+    },
+    {
+      "question": "occupationStatus",
+      "answerType": "string",
+      "answer": "Not working"
+    },
+    {
+      "question": "sourceOfFundsExpectedAssetsOverTwelveMonths",
+      "answerType": "money",
+      "answer": {
+        "currency": "GBP",
+        "amount": "65"
+      }
+    },
+    {
+      "question": "funds",
+      "answerType": "sourceOfFundsDetailSet",
+      "answer": [
+        {
+          "source": "Other",
+          "description": "jgjk",
+          "institution": "",
+          "countries": [
+            "France"
+          ],
+          "order": 0,
+          "additionalFundDetail": ""
+        }
+      ]
+    },
+    {
+      "question": "middleNames",
+      "answerType": "string",
+      "answer": ""
+    },
+    {
+      "question": "registrationQueryParameters",
+      "answerType": "string",
+      "answer": ""
+    },
+    {
+      "question": "title",
+      "answerType": "string",
+      "answer": "Mr"
+    },
+    {
+      "question": "registrationPasswordJson",
+      "answerType": "string",
+      "answer": "{\"hash\":\"�0��RV�m���I��Xu\",\"salt\":\"54b45f51-ec46-4c2b-9b2d-c90484ed7647\"}"
+    },
+    {
+      "question": "riskEvaluation",
+      "answerType": "riskEvaluation",
+      "answer": {
+        "type": "IncompleteRiskEvaluation",
+        "value": {
+          "incompleteRiskAnswers": [
+            {
+              "questionKey": [
+                "sourceOfPersonalWealth",
+                "sourceSystem"
+              ]
+            }
+          ],
+          "completeRiskAnswers": [
+            {
+              "questionKey": [
+                "otherTelephoneNumbers"
+              ],
+              "risk": "StandardRisk"
+            },
+            {
+              "questionKey": [
+                "sourceOfFundsInitialDeposit",
+                "sourceOfPersonalWealth"
+              ],
+              "risk": "NonStandardRisk"
+            },
+            {
+              "questionKey": [
+                "optionalMobileNumber"
+              ],
+              "risk": "StandardRisk"
+            },
+            {
+              "questionKey": [
+                "primaryAddress"
+              ],
+              "risk": "StandardRisk"
+            },
+            {
+              "questionKey": [
+                "occupationStatus",
+                "grossAnnualIncome"
+              ],
+              "risk": "StandardRisk"
+            },
+            {
+              "questionKey": [
+                "countryTaxDetails"
+              ],
+              "risk": "StandardRisk"
+            },
+            {
+              "questionKey": [
+                "sourceOfFundsNotesAndCoins"
+              ],
+              "risk": "StandardRisk"
+            },
+            {
+              "questionKey": [
+                "funds"
+              ],
+              "risk": "StandardRisk"
+            },
+            {
+              "questionKey": [
+                "sourceOfWealthOtherInfo"
+              ],
+              "risk": "StandardRisk"
+            },
+            {
+              "questionKey": [
+                "countryTaxDetails",
+                "primaryAddress"
+              ],
+              "risk": "StandardRisk"
+            },
+            {
+              "questionKey": [
+                "sourceOfFundsExpectedAssetsOverTwelveMonths"
+              ],
+              "risk": "StandardRisk"
+            },
+            {
+              "questionKey": [
+                "countryOfBirth"
+              ],
+              "risk": "StandardRisk"
+            },
+            {
+              "questionKey": [
+                "sourceOfPersonalWealth"
+              ],
+              "risk": "StandardRisk"
+            },
+            {
+              "questionKey": [
+                "title"
+              ],
+              "risk": "StandardRisk"
+            },
+            {
+              "questionKey": [
+                "grossAnnualIncome"
+              ],
+              "risk": "StandardRisk"
+            },
+            {
+              "questionKey": [
+                "sourceOfFundsInitialDeposit"
+              ],
+              "risk": "StandardRisk"
+            },
+            {
+              "questionKey": [
+                "nationality"
+              ],
+              "risk": "StandardRisk"
+            },
+            {
+              "questionKey": [
+                "nationality",
+                "primaryAddress"
+              ],
+              "risk": "StandardRisk"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "question": "isThisTheMailingAddress",
+      "answerType": "string",
+      "answer": "Yes"
+    },
+    {
+      "question": "sourceOfPersonalWealth",
+      "answerType": "wealthDetailSet",
+      "answer": [
+        {
+          "country": [
+            "France"
+          ],
+          "amount": "0",
+          "activityType": "Other",
+          "order": 0,
+          "additionalWealthDetail": ""
+        }
+      ]
+    },
+    {
+      "question": "placeOfBirth",
+      "answerType": "string",
+      "answer": "france"
+    },
+    {
+      "question": "securityAnswer",
+      "answerType": "string",
+      "answer": "france"
+    },
+    {
+      "question": "optionalMobileNumber",
+      "answerType": "phoneNumberSet",
+      "answer": [
+        {
+          "type": "Mobile",
+          "countryCode": "33",
+          "localNumber": "5346",
+          "order": 0
+        }
+      ]
+    },
+    {
+      "question": "sourceSystem",
+      "answerType": "string",
+      "answer": "IBSS"
+    },
+    {
+      "question": "postalRadioCheckBox",
+      "answerType": "string",
+      "answer": "Yes"
+    },
+    {
+      "question": "gender",
+      "answerType": "string",
+      "answer": "Male"
+    },
+    {
+      "question": "countryTaxDetails",
+      "answerType": "countryTaxDetailsSet",
+      "answer": [
+        {
+          "countryName": "France",
+          "tin": "7658698",
+          "order": 0
+        }
+      ]
+    }
+  ]
+}
